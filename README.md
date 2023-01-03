@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mercy-ndanu
-- 👀 I’m interested in .learning computer science but iam  starting from Zero...
+- 👀 I’m interested in .learning data science but iam  starting from Zero...
 - 🌱 I’m currently learning coding using youtube videos
 - 💞️ I’m looking to collaborate on any material that is helpful
 - 📫 How to reach me.ndanumercy844@gmail.com
